@@ -1,0 +1,71 @@
+.warna1{
+    background-color: #FBA834;
+}
+.warna2{
+    background-color: #333A73;
+}
+.warna3{
+    background-color: #387ADF;
+}
+.warna4{
+    background: #50C4ED;
+}
+.banner{
+    height: 90vh;
+    background: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)), url('../image/Pencahayaan-untuk-fotografi-1024x536.jpg');
+    }
+.highlighted-kategori{
+    height: 250px;
+}
+.kategori-baju-pria{
+    background: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)), url('../image/images.jpeg');  
+    background-size: cover;
+    background-position: center; 
+}
+.kategori-baju-wanita{
+    background: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)), url('../image/bajuwanita.jpg');   
+    background-size: cover;
+    background-position: center; 
+}
+.kategori-baju-anak{
+    background: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)), url('../image/bajuanak.jpg');  
+}
+.highlighted-kategori a{
+    text-decoration: none;
+    color: white;
+}
+.highlighted-kategori a:hover{
+    color: #333A73;
+}
+.text-harga{
+    font-size: 20px;
+    color: #333A73;
+}
+.img-box{
+    height: 200px;
+}
+.img-box img{
+    height: 100%;
+    width: 100%;
+}
+.content-subscribe {
+    background-color: rgba(0,0,0,0.7);
+}
+.content-subscribe a {
+    color:white;
+}
+.buttonProduk{
+    text-decoration: none;
+}
+.banner-produk{
+    height: 30vh;
+    background-position: 50% 10%;
+    background: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)), url('../image/Pencahayaan-untuk-fotografi-1024x536.jpg');
+    }
+.list-group a{
+    text-decoration: none;
+}
+.produk-detail-image{
+    height: 100%;
+    width: 100%;
+}
